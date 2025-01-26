@@ -8,4 +8,5 @@ xhofe/alist:latest
 # 使用的镜像配置
 pgvector/pgvector:pg16
 node:18-slim
+node:22-slim
 busybox:latest
