@@ -10,4 +10,4 @@ pgvector/pgvector:pg16
 node:18-slim
 node:22-slim
 busybox:latest
-hello-world
+hello-world:latest
