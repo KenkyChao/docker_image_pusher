@@ -6,9 +6,9 @@ xhofe/alist:latest
 --platform=linux/amd64 xiaoyaliu/alist
 
 # 使用的镜像配置
-#pgvector/pgvector:pg16
-#node:18-slim
-#node:22-slim
-#busybox:latest
-#hello-world:latest
+pgvector/pgvector:pg16
+node:18-slim
+node:22-slim
+busybox:latest
+hello-world:latest
 nvidia/cuda:12.0-base
